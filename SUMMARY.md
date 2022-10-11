@@ -2,10 +2,11 @@
 
 * [🤓 About...](README.md)
 
-## Group 1
+## 🐧 Linux
 
-* [Page 1](group-1/page-1.md)
+* [Page 2](linux/page-2.md)
+* [Page 1](linux/page-1.md)
 
 ***
 
-* [Google](https://www.google.com)
+* [GitHub Repo](https://github.com/Nora-Analytics/tech-notes)
