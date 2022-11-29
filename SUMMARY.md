@@ -17,3 +17,7 @@
 ***
 
 * [GitHub Repo](https://github.com/Nora-Analytics/tech-notes)
+
+## 💾 Data
+
+* [Athena](data/athena.md)
